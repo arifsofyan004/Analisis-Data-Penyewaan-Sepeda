@@ -1,4 +1,5 @@
 # run_streamlit di google collab
+#langkah pertama run ini di google collab
 !streamlit run dashboard_proyek_akhir.py & npx localtunnel --port 8501
 
 Nanti akan muncul seperti ini:
@@ -21,7 +22,7 @@ your url is: https://free-cats-tap.loca.lt
 ^C
 
 Langkah-langkah 
-- langkah pertama klik link your url is
+- lalu klik link your url is
 - setelah itu nanti muncul tab baru
 - lalu isi endpoint ip dengan nomor external url setelah https// sampai titik dua (:)
 - contoh 34.125.181.144
