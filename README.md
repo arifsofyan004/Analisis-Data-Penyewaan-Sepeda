@@ -1,2 +1,3 @@
-# mohamad_arif_sofyan_proyek_akhir
-Proyek Akhir Belajar Analisis Data dengan Python
+# run_streamlit di google collab
+!streamlit run dashboard_proyek_akhir.py & npx localtunnel --port 8501
+
