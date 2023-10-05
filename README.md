@@ -1,3 +1,10 @@
+# RUN Streamlit app
+
+#PASTE LINK DI BAWAH INI KE GOOGLE CROME ATAU BROWSER DLL
+https://mohamadarifsofyanproyekakhir.streamlit.app/
+
+
+
 # run_streamlit di google collab
 #langkah pertama run ini di google collab :
 
