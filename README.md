@@ -1,6 +1,6 @@
 # RUN Streamlit app
 
-#PASTE LINK DI BAWAH INI KE GOOGLE CROME ATAU BROWSER DLL
+#PASTE LINK INI KE GOOGLE CROME ATAU BROWSER DLL :
 https://mohamadarifsofyanproyekakhir.streamlit.app/
 
 
