@@ -7,6 +7,3 @@ conda activate proyek-akhir
 
 # Run Streamlit app
 streamlit run dashboard_proyek_akhir.py
-
-# Opsi 2 paste link ini di google crome lalu enter
-https://mohamadarifsofyanproyekakhir.streamlit.app/
